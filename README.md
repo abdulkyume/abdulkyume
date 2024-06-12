@@ -34,7 +34,7 @@ Want to discuss a project, collaborate, or just say hi? You can reach me at:
 
 When I'm not coding, you'll find me playing games or sleeping. Life is all about balance, after all!
 
-### 🌈 Final Thoughts
+### Final Thoughts
 
 Thanks for stopping by! Feel free to explore my repositories, contribute to my projects, or drop a message. Let's innovate and create the future together. Stay curious and keep coding! 👨‍💻👩‍💻
 
